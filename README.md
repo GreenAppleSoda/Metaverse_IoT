@@ -11,8 +11,8 @@
 
 ## Cross-Platform Integration
 1. **임베디드 시스템**:
-   - **OS**: ![Static Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-   - **Hardware**: ![Static Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+   - **OS**: ![Static Badge](https://img.shields.io/badge/Raspberry%20Pi%20OS-A22846?style=flat&logo=raspberrypi&logoColor=white)
+   - **Hardware**: ![Static Badge](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=flat&logo=raspberrypi&logoColor=white)
    - **Programming Language**: ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
    - **Communication**: 
         - Bluetooth: HC-06 Bluetooth 모듈을 사용해 중앙 Raspberry Pi와 Unity 가상환경 및 스마트폰 간의 무선 데이터 송수신.
