@@ -20,7 +20,7 @@
 
 2. **가상환경**:
    - **OS**: ![Static Badge](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
-   - **Engine**: ![Static Badge](https://img.shields.io/badge/unity3D-FFFFFF?style=flat&logo=unity&logoColor=black)
+   - **Engine**: ![Static Badge](https://img.shields.io/badge/unity%203D-FFFFFF?style=flat&logo=unity&logoColor=black)
    - **Programming Language**: ![Static Badge](https://img.shields.io/badge/C%23-512BD4?style=flat&logoColor=white)
 
 # 시스템 설계
