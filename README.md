@@ -125,5 +125,15 @@ IoT 기술과 가상현실을 융합하여 기존 스마트 기기의 활용도�
 - 현실과 가상현실의 융합을 통해 IoT와 메타버스 기술이 결합된 미래지향적인 프로그래밍 가능성을 제시
 
   ---
+# 소프트웨어 실행 화면
+![KakaoTalk_20241222_164543647](https://github.com/user-attachments/assets/98802877-967c-4ac3-9a01-70e545ae7916)
+![KakaoTalk_20241222_164523099](https://github.com/user-attachments/assets/6ed228c7-c87e-4d08-9ec6-0f842137c43c)
+![KakaoTalk_20241222_164542069](https://github.com/user-attachments/assets/728d980d-92fe-453a-9c45-a647ca2c12a1)
+![KakaoTalk_20241222_164601182](https://github.com/user-attachments/assets/5f7417f5-27d0-4393-898f-7e592b8e858f)
+![KakaoTalk_20241222_164616446](https://github.com/user-attachments/assets/56601fe1-25ae-4fc0-9d09-5e1c1eef632d)
+![KakaoTalk_20241222_164638136](https://github.com/user-attachments/assets/a29f83ad-50cc-4821-b448-b8da18a48fb0)
+![KakaoTalk_20241222_164700105](https://github.com/user-attachments/assets/69d7b57d-b010-4a63-b82b-c701911e41d7)
+
+---
 # 데모영상
 https://youtu.be/P1sDLRWjP3w
