@@ -15,7 +15,7 @@
    - **Hardware**: ![Static Badge](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=flat&logo=raspberrypi&logoColor=white)
    - **Programming Language**: ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
    - **Communication**: 
-        - Bluetooth: HC-06 Bluetooth 모듈을 사용해 중앙 Raspberry Pi와 Unity 가상환경 및 스마트폰 간의 무선 데이터 송수신.
+        - Bluetooth: HC-06 Bluetooth 모듈 및 Arduino Bluetooth Plugin (Unity)을 사용하여 중앙 Raspberry Pi와 Unity 가상환경 및 스마트폰 간의 무선 데이터 송수신.
         - UART (유선 통신): 중앙 Raspberry Pi가 스마트 선풍기와 자동문 제어 Raspberry Pi와 데이터를 주고받기 위해 사용.
 
 2. **가상환경**:
@@ -66,10 +66,11 @@
 
 ### 4. 가상현실
 - **기능**:  
-  - Unity 엔진을 사용하여 현실의 동작(선풍기 on/off/회전, 자동문 열림/닫힘)을 가상현실에서 실시간 반영
+  - Unity 엔진과 Arduino Bluetooth Plugin을 사용하여 현실의 동작(선풍기 on/off/회전, 자동문 열림/닫힘)을 가상현실에서 실시간 반영
   - 가상현실에서의 기기조작(선풍기 on/off/회전, 가까이 접근 및 위험 감지, 자동문 접근)을 현실에서 실시간 반영
 
 - **빌드 환경**:
+   - Unity 버전: **2019.4.40f**
    - 안드로이드 애플리케이션으로 빌드
 ---
 
@@ -83,7 +84,8 @@
    - 서보모터 제어
    - 초음파센서 제어
    - UART통신 제어
-
+   - 조이스틱 및 버튼 입력 처리
+     
 ## Mutex 사용
    - 서보모터 회전 활성화 여부
    - 서보모터의 현재 회전 위치
@@ -111,6 +113,7 @@
 # 성과
 - 임베디드 시스템과 가상 환경의 원활한 통합
 - 현실과 가상 공간 사이의 장치 상태 실시간 동기화 구현
+- 현실과 가상현실의 융합을 통해 IoT와 메타버스 기술이 결합된 미래지향적인 프로그래밍 가능성을 제시
 
   ---
 # 데모영상
