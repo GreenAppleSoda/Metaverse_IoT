@@ -18,13 +18,15 @@ IoT 기술과 가상현실을 융합하여 기존 스마트 기기의 활용도�
    - **Hardware**: ![Static Badge](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=flat&logo=raspberrypi&logoColor=white)
    - **Programming Language**: ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
    - **Communication**: 
-        - Bluetooth: HC-06 Bluetooth 모듈 및 Arduino Bluetooth Plugin (Unity)을 사용하여 중앙 Raspberry Pi와 Unity 가상환경 및 스마트폰 간의 무선 데이터 송수신.
+        - Bluetooth: HC-06 Bluetooth 모듈을 사용하여 중앙 Raspberry Pi와 Unity 가상환경 및 스마트폰 간의 무선 데이터 송수신.
         - UART (유선 통신): 중앙 Raspberry Pi가 스마트 선풍기와 자동문 제어 Raspberry Pi와 데이터를 주고받기 위해 사용.
 
 2. **가상환경**:
    - **OS**: ![Static Badge](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
    - **Engine**: ![Static Badge](https://img.shields.io/badge/unity%203D-FFFFFF?style=flat&logo=unity&logoColor=black)
    - **Programming Language**: ![Static Badge](https://img.shields.io/badge/C%23-512BD4?style=flat&logoColor=white)
+   - **Communication**: 
+        - Bluetooth: Arduino Bluetooth Plugin을 사용하여 Unity와 Raspberry Pi 간의 무선 데이터 송수신.
 
 # 시스템 설계
 
